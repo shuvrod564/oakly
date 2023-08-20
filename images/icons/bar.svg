@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42">
+  <g id="Layer_2" data-name="Layer 2" transform="translate(0.439 0.439)">
+    <g id="menu-2">
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="42" height="42" transform="translate(41.561 41.561) rotate(180)" fill="#ec1f28" opacity="0"/>
+      <path id="Path_4" data-name="Path 4" d="M1.713,0A1.713,1.713,0,1,1,0,1.713,1.713,1.713,0,0,1,1.713,0Z" transform="translate(5.14 18.848)" fill="#ec1f28"/>
+      <path id="Path_2" data-name="Path 2" d="M1.611,0H22.377a1.611,1.611,0,0,1,1.611,1.611v.206a1.611,1.611,0,0,1-1.611,1.611H1.611A1.611,1.611,0,0,1,0,1.816V1.611A1.611,1.611,0,0,1,1.611,0Z" transform="translate(11.994 18.848)" fill="#ec1f28"/>
+      <path id="Path_3" data-name="Path 3" d="M1.611,0h27.62a1.611,1.611,0,0,1,1.611,1.611v.206a1.611,1.611,0,0,1-1.611,1.611H1.611A1.611,1.611,0,0,1,0,1.816V1.611A1.611,1.611,0,0,1,1.611,0Z" transform="translate(5.14 27.415)" fill="#ec1f28"/>
+      <path id="Path_1" data-name="Path 1" d="M1.611,0h27.62a1.611,1.611,0,0,1,1.611,1.611v.206a1.611,1.611,0,0,1-1.611,1.611H1.611A1.611,1.611,0,0,1,0,1.816V1.611A1.611,1.611,0,0,1,1.611,0Z" transform="translate(5.14 10.28)" fill="#ec1f28"/>
+    </g>
+  </g>
+</svg>

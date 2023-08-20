@@ -1,0 +1,47 @@
+ 
+
+.page__header {
+    background-repeat: no-repeat;background-position: center center;background-size: cover;
+    min-height: 22rem;
+}
+
+/*--------- Contact Page Styles ----------*/
+.contact__wrapper {  
+	label {
+		font-weight: 700;font-family: var(--link-font);color: #808080;font-family: var(--nunito);
+	}
+	.form-control {
+		border-radius: 0;height: 2.5rem;border: 0;border-bottom: 1px solid #707070;padding-left: 0rem;
+		font-size: 1rem;color:var(--dark);font-family:var(--body-font);
+		font-weight: 500;font-family: var(--nunito);
+		
+
+		&:hover, &:focus { border-color: var(--dark); }
+	} 
+	textarea.form-control { height: auto; }
+	.iti { 
+		width: 100%;margin-top: .4rem;font-family: var(--nunito) !important;
+	}
+	.iti--allow-dropdown input, .iti--allow-dropdown input[type="tel"], .iti--allow-dropdown input[type="text"], 
+    .iti--separate-dial-code input, .iti--separate-dial-code input[type="tel"], .iti--separate-dial-code input[type="text"] { 
+		width: 100%;
+		border: 0; 
+		border-bottom: 1px solid #707070;
+		height: 2.1rem;
+
+		&:focus {
+			box-shadow: none;outline: none;
+		}
+	}
+    .iti__country-name, .iti__flag-box {
+        margin-right: 6px;
+        font-family: var(--nunito);
+      }
+    .btn { font-family: var(--nunito); }
+}
+
+
+
+.caption__card {
+    background-color: #EDEDED;
+}

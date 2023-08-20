@@ -1,0 +1,3 @@
+    <div class="map">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3945.9467002636957!2d76.9107463!3d8.504556400000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x616130ddf333998a!2sSofas%20%26%20More%20by%20Oakly%20-%20Trivandrum!5e0!3m2!1sen!2sbd!4v1657950697962!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
